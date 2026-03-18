@@ -94,7 +94,7 @@ npm install @chainlink/contracts
 
 ```solidity
 
-    ![Project Demo](assets/carbon.png)
+    ![Project Demo](https://raw.githubusercontent.com/YOUR_USERNAME/Path-to-web3/BRANCH/Chainlink_PriceFeed/assets/carbon.png)
 
 ```
 
