@@ -204,7 +204,7 @@ MIT License
 
 If you're new to Web3, mastering oracles is a **game-changer**.
 
-This is one of the first steps toward building real-world dApps.
+This is one of the first steps toward building real-world dApps. 
 
 ---
 
